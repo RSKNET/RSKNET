@@ -4,9 +4,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=RSKNET&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=RSKNET&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api?username=RSKNET&show_icons=true&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RSKNET&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 💻 Tech Stack:
